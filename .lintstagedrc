@@ -1,0 +1,3 @@
+{
+  "*.{js,jsx}": ["eslint --cache --max-warnings=0", "prettier --check"]
+}

@@ -1,0 +1,5 @@
+dist/
+build/
+public/
+lib/
+node_modules/
